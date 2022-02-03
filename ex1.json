@@ -1,0 +1,30 @@
+{
+    "prices": {
+        "Lotnisko 1 <= Firma 1": 10,
+        "Lotnisko 1 <= Firma 2": 7,
+        "Lotnisko 1 <= Firma 3": 8,
+
+        "Lotnisko 2 <= Firma 1": 10,
+        "Lotnisko 2 <= Firma 2": 11,
+        "Lotnisko 2 <= Firma 3": 14,
+
+        "Lotnisko 3 <= Firma 1": 9,
+        "Lotnisko 3 <= Firma 2": 12,
+        "Lotnisko 3 <= Firma 3": 4,
+        
+        "Lotnisko 4 <= Firma 1": 11,
+        "Lotnisko 4 <= Firma 2": 13,
+        "Lotnisko 4 <= Firma 3": 9
+    },
+    "demand": {
+        "Lotnisko 1": 110000,
+        "Lotnisko 2": 220000,
+        "Lotnisko 3": 330000,
+        "Lotnisko 4": 440000
+    },
+    "supply": {
+        "Firma 1": 275000,
+        "Firma 2": 550000,
+        "Firma 3": 660000
+    }
+}

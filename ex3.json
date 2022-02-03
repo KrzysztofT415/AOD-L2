@@ -1,0 +1,25 @@
+{
+    "orders": {
+        "Zmiana 1, Dzielnica A": { "min": 2, "max": 3 },
+        "Zmiana 1, Dzielnica B": { "min": 3, "max": 5 },
+        "Zmiana 1, Dzielnica C": { "min": 5, "max": 8 },
+
+        "Zmiana 2, Dzielnica A": { "min": 4, "max": 7 },
+        "Zmiana 2, Dzielnica B": { "min": 6, "max": 7 },
+        "Zmiana 2, Dzielnica C": { "min": 7, "max": 12 },
+        
+        "Zmiana 3, Dzielnica A": { "min": 3, "max": 5 },
+        "Zmiana 3, Dzielnica B": { "min": 5, "max": 10 },
+        "Zmiana 3, Dzielnica C": { "min": 6, "max": 10 }
+    },
+    "shifts": {
+        "Zmiana 1": 10,
+        "Zmiana 2": 20,
+        "Zmiana 3": 18
+    },
+    "districts": {
+        "Dzielnica A": 10,
+        "Dzielnica B": 20,
+        "Dzielnica C": 13
+    }
+}

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/krzysiek/files/sem5/aod/AOD-L2'
+make: Leaving directory '/home/krzysiek/files/sem5/aod/AOD-L2'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
